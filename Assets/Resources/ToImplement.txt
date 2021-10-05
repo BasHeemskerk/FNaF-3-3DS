@@ -1,0 +1,42 @@
+Springtrap:
+
+(X) movement forward
+(X) movement backward
+(X) sound reaction
+() vent entering
+() jumpscaring
+
+Chica:
+
+(X) appear
+() jumpscaring
+
+Foxy:
+
+() appear
+() jumpscaring
+
+Mangle: 
+
+() Spot 1
+() Spot 2
+() jumpscaring
+
+Freddy:
+
+() appear
+() jumpscaring
+
+Puppet:
+
+() appear
+() jumpscaring
+
+Error:
+
+(X) random
+(X) cam error
+(X) audio error
+(X) vent error
+(X) error messages
+(X) repairing
